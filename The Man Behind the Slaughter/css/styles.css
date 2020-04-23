@@ -1,0 +1,72 @@
+/* ID & CLASS SPECIFIC SELECTORS */
+#title{
+  background-color:#2C003E;
+  position:relative;
+}
+.title-section{
+  color:#DBDBDB;
+  padding:2rem;
+}
+.nav-item{
+  padding:0 5px;
+}
+.scrolldown{
+  font-size:1rem;
+  position:absolute;
+  left:11.5rem;
+}
+.benefits{
+  text-align: center;
+  padding:5px;
+}
+.fas:hover{
+  color:purple;
+}
+.physical-rel{
+  background-color:#511845;
+}
+.lorebooks{
+  background-color:#900C3F;
+}
+.peter{
+  margin-right: 1rem;
+}
+.bluishhuemanbehindthehomicide{
+  background-color:#C9FFE5;
+  padding:7px;
+  position:relative;
+  bottom:8px;
+
+}
+.lore-research{
+  background-color: #c70039;
+}
+.actuallorethistime:hover{
+  color:#363062;
+}
+.actuallorethistime1:hover{
+  color:#c70039
+}
+.thanody{
+  background-color: #363062;
+}
+.card:hover{
+  background-color: lightgrey;
+}
+.copyright{
+  font-size:1.5rem;
+}
+/* TAG SPECIFIC SELECTORS */
+h1{
+  font-family:"Montserrat",sans-serif;
+  font-weight:900;
+  font-size:3.5rem;
+}
+p{
+  font-family:"Montserrat", sans-serif;
+  font-weight:300;
+  font-size:2rem;
+}
+body{
+  background-color:pink;
+}
